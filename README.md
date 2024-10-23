@@ -1,6 +1,6 @@
-# ArquitecturaTare2UNA
+# ArquitecturaProyecto1UNA
  
-Tarea 2
+Proyecto 1
 
 EIF511 - Arquitectura de Información
 
@@ -8,6 +8,8 @@ EIF511 - Arquitectura de Información
 
 Fernanda Quesada Pineda
 
+Adrián Fallas Marín
+
 ## Sitio web
 
-El enlace al proyecto es: 
+El enlace al proyecto es: [https://una-eif511-proyecto1-peliculasanimada.netlify.app](https://una-eif511-proyecto1-peliculasanimada.netlify.app)
