@@ -23,6 +23,16 @@
                     </div>
                 </NuxtLink>
             </div>
+             <!-- Utteranc comments -->
+            <div id="comments">
+                <script src="https://utteranc.es/client.js"
+                        repo="Fernanda-15/Tarea-2_arquitectura"
+                        issue-term="pathname"
+                        theme="github-light"
+                        crossorigin="anonymous"
+                        async>
+                </script>
+            </div>
             <FooterView />
         </div>
     </div>
